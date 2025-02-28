@@ -14,6 +14,6 @@ int main() {
         for (int i=0; i<size; i++){
         sum+=arr[i];
    }
-   printf("Sum of the arrar = %d\n", sum);
+   printf("Sum of the array = %d\n", sum);
     return 0;
 }
